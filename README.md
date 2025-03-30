@@ -1,4 +1,4 @@
-# Stock Tracker
+# Stock Price Tracker
 
 This project is a web application that tracks stock prices in real-time. It provides users with an easy-to-use interface to view and monitor stock market data.
 
